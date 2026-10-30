@@ -1,0 +1,3 @@
+20:07:47.089 ==== TEST LOGGER BASLADI [BASIT (her şeyi kaydeder)] ====
+20:08:26.958 ==== TEST LOGGER BASLADI [BASIT (her şeyi kaydeder)] ====
+-- ÖZET: gercek=0 inj=0 noise=0 --
